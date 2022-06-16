@@ -1,0 +1,50 @@
+﻿  MathLibrary.cpp
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(25,2): warning C4091: __declspec(dllexport): пропускается слева от "Matrix", когда ни одна переменная не объявлена
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(35,2): warning C4091: __declspec(dllexport): пропускается слева от "UnitMatrix", когда ни одна переменная не объявлена
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(45,2): warning C4091: __declspec(dllexport): пропускается слева от "DiagMatrix", когда ни одна переменная не объявлена
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(55,2): warning C4091: __declspec(dllexport): пропускается слева от "UpperTriangularMatrix", когда ни одна переменная не объявлена
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(64,2): warning C4091: __declspec(dllexport): пропускается слева от "LowerTriangularMatrix", когда ни одна переменная не объявлена
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(71,2): warning C4091: __declspec(dllexport): пропускается слева от "SymMatrix", когда ни одна переменная не объявлена
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(75,78): warning C4190: для "+" задана С-связывание, но возвращаемый тип UDT "Matrix" несовместим с языком Си
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(13): message : см. объявление "Matrix"
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(76,78): warning C4190: для "-" задана С-связывание, но возвращаемый тип UDT "Matrix" несовместим с языком Си
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(13): message : см. объявление "Matrix"
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(77,78): warning C4190: для "*" задана С-связывание, но возвращаемый тип UDT "Matrix" несовместим с языком Си
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(13): message : см. объявление "Matrix"
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(80,82): warning C4190: для "MultOfAdamard" задана С-связывание, но возвращаемый тип UDT "Matrix" несовместим с языком Си
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(13): message : см. объявление "Matrix"
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(97,101): warning C4190: для "GetMinorElementsMatrix" задана С-связывание, но возвращаемый тип UDT "Matrix" несовместим с языком Си
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(13): message : см. объявление "Matrix"
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(98,72): warning C4190: для "TransposeMatrix" задана С-связывание, но возвращаемый тип UDT "Matrix" несовместим с языком Си
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(13): message : см. объявление "Matrix"
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(99,70): warning C4190: для "InverseMatrix" задана С-связывание, но возвращаемый тип UDT "Matrix" несовместим с языком Си
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.h(13): message : см. объявление "Matrix"
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(483,1): warning C4297: operator +: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(483,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(512,1): warning C4297: operator -: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(512,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(541,1): warning C4297: operator *: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(541,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(596,1): warning C4297: MultOfAdamard: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(596,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(628,1): warning C4297: MethodGauss: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(628,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(690,1): warning C4297: Trace: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(690,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(750,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(719,1): warning C4297: ScalarMult: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(719,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(723,12): warning C4101: abs_val: неиспользованная локальная переменная
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(725,12): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(788,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(770,1): warning C4297: Norma: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(770,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(825,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(808,1): warning C4297: MaxNorma: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(808,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(885,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(903,12): warning C4101: temp_buffer: неиспользованная локальная переменная
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(997,1): warning C4297: InverseMatrix: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\HP\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(997,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+     Создается библиотека C:\Users\HP\source\repos\MathLibrary\Debug\MathLibrary.lib и объект C:\Users\HP\source\repos\MathLibrary\Debug\MathLibrary.exp
+  MathLibrary.vcxproj -> C:\Users\HP\source\repos\MathLibrary\Debug\MathLibrary.dll
